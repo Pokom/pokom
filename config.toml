@@ -8,7 +8,7 @@ sectionPagesMenu = "main"
 
 # Sidebar: about/bio
 [params.about]
-title = "risotto"
+title = "Mark Poko"
 description = "A [hugo](https://gohugo.io) theme inspired by terminal ricing."
 logo = "images/rice.svg"
 
