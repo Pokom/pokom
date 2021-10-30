@@ -45,7 +45,7 @@ func main() {
 I ran into an issue with this initially because I had copied the example as is from the documentation.
 The directive and var needs to be **outside** of a func, and there cannot be any other lines of code between the directive and variable block.
 
-## Embed single file
+## Serve static file
 
 {{<highlight "go">}}
 package main
