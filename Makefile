@@ -10,3 +10,7 @@ baseurl = http://localhost:8081/public
 .PHONY: build
 build:
 	hugo -D -b $(baseurl)
+
+.PHONY: install
+install:
+	brew install hugo
